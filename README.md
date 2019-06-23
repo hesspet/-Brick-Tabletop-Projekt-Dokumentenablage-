@@ -1,5 +1,5 @@
 # BTT
-Dokumentenablage Brick Tabletop Projekt
+Dokumentenablage: Brick Tabletop Projekt
 
 Dieses Projekt bezieht sich weitestgehend auf die unter
 
