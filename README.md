@@ -10,7 +10,7 @@ vorgestellte Spielidee, ein auf Klemmbausteinen (Bricks) basiertes Tabletop Syst
 Die Diskussionen rund um die Regeln und Spielemechanik finden in Discord in der Gruppe "Klemmbaustein-Tabletop" statt. Kontaktaufnahme bitte unter den im oben genannten Video aufgeführten Kontaktdaten in Youtube.
 
 
-
+This project is terminated due to the lack of interesst in the community here in Germany.
 
 
 
